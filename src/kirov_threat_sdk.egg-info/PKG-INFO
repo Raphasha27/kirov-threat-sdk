@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: kirov-threat-sdk
+Version: 1.0.0
+Summary: Kirov Security Labs - Shared Threat Intelligence SDK
+Requires-Python: >=3.11
+Requires-Dist: pydantic>=2.0.0
