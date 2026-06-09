@@ -23,9 +23,20 @@ print(results)
 MIT
 
 <br/>
+## Product Ladder
 
----
+```
+GitHub (this repo)
+    ↓
+Portfolio → https://raphasha27.github.io/raphasha-dev-portfolio
+    ↓
+Case Study → (coming soon)
+    ↓
+Live Demo → (check the badges above)
+    ↓
+Contact → https://github.com/Raphasha27
+```
 
-<p align="center">
-  <sub>🔒 <a href="https://github.com/Raphasha27">Raphasha27</a> Security Ecosystem — <a href="https://github.com/Raphasha27/Raphasha27">Back to Profile</a></sub>
-</p>
+Part of the [Kirov Dynamics Technology](https://github.com/Raphasha27) ecosystem.
+
+**Built by Koketso Raphasha — Practical AI for Africa**
