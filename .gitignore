@@ -18,3 +18,17 @@ node_modules/
 
 # Vercel
 .vercel
+
+# Security: auto-added entries
+.env.*
+!.env.example
+!.env.sample
+*.pyc
+Thumbs.db
+desktop.ini
+.venv/
+venv/
+credentials.json
+serviceAccountKey.json
+*.pem
+*.key
